@@ -1,7 +1,0 @@
-pg-dbt-workshop:
-
-  target: dev
-  outputs:
-    dev:
-      type: duckdb
-      path: 'nyc_taxi.duckdb'
